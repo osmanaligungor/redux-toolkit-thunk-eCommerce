@@ -28,3 +28,7 @@
 <li>fakestoreapi (for api)</li>
 
 <h1>Preview</h1>
+
+![Screen Recording 2025-03-28 at 02 29 08](https://github.com/user-attachments/assets/d7d9a115-6540-4fdb-919f-1006d822ca9d)
+
+
